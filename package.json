@@ -1,0 +1,23 @@
+{
+  "name": "scrape-tetrio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "node-fetch": "^2.6.0",
+    "number-string": "^1.1.4",
+    "numeral": "^2.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
